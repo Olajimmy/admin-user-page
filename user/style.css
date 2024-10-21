@@ -1,0 +1,95 @@
+
+/* body{
+    background-color: antiquewhite;
+}
+ */
+
+.container1{
+    border:0px solid;
+    background-color: #c4e5c0;
+  
+}
+.img-container{
+    border: 0px solid;
+    width: 120px;
+    border-radius: 8px;
+    display: flex;
+    margin-left: 15px;
+    /* width: 300px; */
+    background-color: #c4e5c0;
+    
+}
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 8px;
+    /* display: flex;*/
+    margin-left: 10px;
+    
+    
+}
+
+.label-cont{
+    border: 0px solid black;
+    /* width: 250px; */
+    background-color: aliceblue;
+    display: flex;
+    
+}
+.info-cont{
+    border: 0px solid black;
+    border-radius: 6px;
+    width: 300px;
+    padding: 25px;
+    /* margin: auto; */
+    background-color: #9ed1c2;
+   
+    
+}
+.skills{
+    margin-left: auto;
+    border: 0px solid black;
+    border-radius: 6px;
+    width: 600px;
+    padding: 25px;
+    /* margin: auto; */
+    background-color: #9ed1c2;
+    color: white;
+    text-align: center;
+   
+}
+.main-info-cont{
+    border: 0px solid;
+    display: flex;
+    /* flex-direction: row; */
+    
+}
+.password-cont{
+    border: 0               px solid;
+    text-align: center;
+    color: white;
+    background-color: #2b4b38;
+    margin: 10px;
+}
+#move{
+    text-align: center;
+    /* margin-left: 65px; */
+    display: flex;
+    width: 1000px;
+}
+#stretch{
+
+    width: 500px;
+}
+#stretch2{
+
+    width: 250px;
+}
+.upload{
+    border: 0 px solid;
+    position: absolute;
+    display: flex;
+    margin-left: 12px;
+    margin-top: 70px;
+
+}
